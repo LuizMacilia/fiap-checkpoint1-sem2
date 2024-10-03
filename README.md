@@ -1,4 +1,4 @@
-# E-commerce
+# fiap-checkpoint1-sem2
 
 ## Database
 
@@ -65,5 +65,3 @@ docker run -d \
     ecommerce
 ```
 
-
-# ecommerce
